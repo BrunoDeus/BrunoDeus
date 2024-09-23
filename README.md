@@ -29,3 +29,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
+
+##### Feel free to chat with me on discord.
+
+<a href="https://github.com/BrunoDeus">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDeus&layout=compact" />
+</a>
+
+
